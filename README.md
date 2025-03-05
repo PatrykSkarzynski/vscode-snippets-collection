@@ -14,14 +14,14 @@
   Aggregates data about picked companies and shows it on a graph.
 
 
-4. Pandas_NumPy:
+5. Pandas_NumPy:
   Contains one files made in Jupyter Notebook.
 
 
-5. Testing:
+6. Testing:
   Contains all test files made with PyTest, Robot Framework, Selenium, Unitest.
 
 
-6. Exchange Rates:
+7. Exchange Rates:
   Contains one quick program which downloads exchange rates data to .JSON with request library and
   Unitest with Request to test server response.
