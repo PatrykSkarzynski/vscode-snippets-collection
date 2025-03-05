@@ -8,10 +8,9 @@
 
 
 3. Financial data of listed Companies from the Server:
+  Aggregates data about picked companies and shows it on a graph.
   Used libraries:
   plotly, matplotlib.pyplot, pandas, tkinter, yfinance, selenium, time, traceback.
-
-  Aggregates data about picked companies and shows it on a graph.
 
 
 5. Pandas_NumPy:
