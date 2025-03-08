@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.2.2 (Python 3.11.9 on win32)" generated="2025-03-08T04:39:39.227220" rpa="false" schemaversion="5">
+<suite id="s1" name="testDemo7" source="C:\Users\skarz\Documents\_IMPORTANT\PYTHON\Testing\RobotFramework\test_demo_files\testDemo7.robot">
+<test id="s1-t1" name="Play with Dictionary" line="14">
+<kw name="Create Dictionary" owner="BuiltIn">
+<msg time="2025-03-08T04:39:39.589221" level="INFO">&amp;{data} = { name=Patryk | age=30 | country=Poland | website=https://www.linkedin.com/in/patryk-skarżyński-b20690173/ }</msg>
+<var>&amp;{data}</var>
+<arg>name=Patryk</arg>
+<arg>age=30</arg>
+<arg>country=Poland</arg>
+<arg>website=https://www.linkedin.com/in/patryk-skarżyński-b20690173/</arg>
+<doc>Creates and returns a dictionary based on the given ``items``.</doc>
+<status status="PASS" start="2025-03-08T04:39:39.589221" elapsed="0.000000"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2025-03-08T04:39:39.590220" level="INFO">{'name': 'Patryk', 'age': '30', 'country': 'Poland', 'website': 'https://www.linkedin.com/in/patryk-skarżyński-b20690173/'}</msg>
+<arg>${data}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2025-03-08T04:39:39.590220" elapsed="0.000000"/>
+</kw>
+<kw name="Dictionary Should Contain Key" owner="Collections">
+<arg>${data}</arg>
+<arg>name</arg>
+<doc>Fails if ``key`` is not found from ``dictionary``.</doc>
+<status status="PASS" start="2025-03-08T04:39:39.590220" elapsed="0.000000"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2025-03-08T04:39:39.590220" level="INFO">Patryk</msg>
+<arg>${data}[name]</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2025-03-08T04:39:39.590220" elapsed="0.000000"/>
+</kw>
+<kw name="Get From Dictionary" owner="Collections">
+<arg>${data}</arg>
+<arg>name</arg>
+<doc>Returns a value from the given ``dictionary`` based on the given ``key``.</doc>
+<status status="PASS" start="2025-03-08T04:39:39.590220" elapsed="0.000000"/>
+</kw>
+<kw name="Get From Dictionary" owner="Collections">
+<msg time="2025-03-08T04:39:39.591220" level="INFO">${url} = https://www.linkedin.com/in/patryk-skarżyński-b20690173/</msg>
+<var>${url}</var>
+<arg>${data}</arg>
+<arg>website</arg>
+<doc>Returns a value from the given ``dictionary`` based on the given ``key``.</doc>
+<status status="PASS" start="2025-03-08T04:39:39.591220" elapsed="0.000000"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2025-03-08T04:39:39.591220" level="INFO">https://www.linkedin.com/in/patryk-skarżyński-b20690173/</msg>
+<arg>${url}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2025-03-08T04:39:39.591220" elapsed="0.000000"/>
+</kw>
+<status status="PASS" start="2025-03-08T04:39:39.589221" elapsed="0.001999"/>
+</test>
+<test id="s1-t2" name="Add Book into Library BookDataBase" line="28">
+<kw name="Create Dictionary" owner="BuiltIn">
+<msg time="2025-03-08T04:39:39.592220" level="INFO">&amp;{req_body} = { name=RobotFrameworkLearning | isbn=9876 | aisle=332145 | author=Patryk Skarzynski }</msg>
+<var>&amp;{req_body}</var>
+<arg>name=RobotFrameworkLearning</arg>
+<arg>isbn=9876</arg>
+<arg>aisle=332145</arg>
+<arg>author=Patryk Skarzynski</arg>
+<doc>Creates and returns a dictionary based on the given ``items``.</doc>
+<status status="PASS" start="2025-03-08T04:39:39.592220" elapsed="0.000000"/>
+</kw>
+<kw name="POST" owner="RequestsLibrary">
+<msg time="2025-03-08T04:39:40.100538" level="INFO">POST Request : url=https://rahulshettyacademy.com/Library/Addbook.php 
+ path_url=/Library/Addbook.php 
+ headers={'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '100', 'Content-Type': 'application/json'} 
+ body=b'{"name": "RobotFrameworkLearning", "isbn": "9876", "aisle": "332145", "author": "Patryk Skarzynski"}' 
+ </msg>
+<msg time="2025-03-08T04:39:40.100538" level="INFO">POST Response : url=https://rahulshettyacademy.com/Library/Addbook.php 
+ status=200, reason=OK 
+ headers={'Date': 'Sat, 08 Mar 2025 03:39:40 GMT', 'Server': 'Apache/2.4.52 (Ubuntu)', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'POST', 'Access-Control-Max-Age': '3600', 'Access-Control-Allow-Headers': 'Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With', 'Content-Length': '47', 'Keep-Alive': 'timeout=5, max=100', 'Connection': 'Keep-Alive', 'Content-Type': 'application/json;charset=UTF-8'} 
+ body={"Msg":"Book Already Exists","ID":"9876332145"} 
+ </msg>
+<msg time="2025-03-08T04:39:40.100538" level="INFO">${response} = &lt;Response [200]&gt;</msg>
+<var>${response}</var>
+<arg>${base_url}/Library/Addbook.php</arg>
+<arg>json=${req_body}</arg>
+<arg>expected_status=200</arg>
+<doc>Sends a POST request.</doc>
+<status status="PASS" start="2025-03-08T04:39:39.592220" elapsed="0.508318"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2025-03-08T04:39:40.101539" level="INFO">{'Msg': 'Book Already Exists', 'ID': '9876332145'}</msg>
+<arg>${response.json()}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2025-03-08T04:39:40.100538" elapsed="0.001001"/>
+</kw>
+<kw name="Dictionary Should Contain Key" owner="Collections">
+<arg>${response.json()}</arg>
+<arg>ID</arg>
+<doc>Fails if ``key`` is not found from ``dictionary``.</doc>
+<status status="PASS" start="2025-03-08T04:39:40.101539" elapsed="0.000000"/>
+</kw>
+<kw name="Get From Dictionary" owner="Collections">
+<msg time="2025-03-08T04:39:40.102539" level="INFO">${book_id} = 9876332145</msg>
+<var>${book_id}</var>
+<arg>${response.json()}</arg>
+<arg>ID</arg>
+<doc>Returns a value from the given ``dictionary`` based on the given ``key``.</doc>
+<status status="PASS" start="2025-03-08T04:39:40.101539" elapsed="0.001000"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2025-03-08T04:39:40.102539" level="INFO">9876332145</msg>
+<arg>${book_id}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2025-03-08T04:39:40.102539" elapsed="0.000000"/>
+</kw>
+<kw name="Should Be Equal As Strings" owner="BuiltIn">
+<msg time="2025-03-08T04:39:40.102539" level="FAIL">successfully added != Book Already Exists</msg>
+<arg>successfully added</arg>
+<arg>${response.json()}[Msg]</arg>
+<doc>Fails if objects are unequal after converting them to strings.</doc>
+<status status="FAIL" start="2025-03-08T04:39:40.102539" elapsed="0.000000">successfully added != Book Already Exists</status>
+</kw>
+<if>
+<branch type="IF" condition="${response.json()}[Msg] = Book Already Exists">
+<kw name="Log" owner="BuiltIn">
+<arg>Book already exists</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="NOT RUN" start="2025-03-08T04:39:40.103539" elapsed="0.000000"/>
+</kw>
+<status status="NOT RUN" start="2025-03-08T04:39:40.103539" elapsed="0.000000"/>
+</branch>
+<branch type="ELSE">
+<kw name="Log" owner="BuiltIn">
+<arg>Book added successfully</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="NOT RUN" start="2025-03-08T04:39:40.103539" elapsed="0.000000"/>
+</kw>
+<status status="NOT RUN" start="2025-03-08T04:39:40.103539" elapsed="0.000000"/>
+</branch>
+<status status="NOT RUN" start="2025-03-08T04:39:40.103539" elapsed="0.000000"/>
+</if>
+<status status="FAIL" start="2025-03-08T04:39:39.592220" elapsed="0.511319">successfully added != Book Already Exists</status>
+</test>
+<doc>When creating a dictionary, use &amp;'s to create a dictionary and pass the key-value pairs'</doc>
+<status status="FAIL" start="2025-03-08T04:39:39.228220" elapsed="0.876318"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="testDemo7" id="s1" pass="1" fail="1" skip="0">testDemo7</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
