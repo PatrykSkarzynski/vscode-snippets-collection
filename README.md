@@ -24,7 +24,7 @@
 
 ---
 
-### Sample of .robot test file 🛠️
+### 🛠️ Sample of .robot test file
 ```bash
 *** Settings ***
 Library          Collections
