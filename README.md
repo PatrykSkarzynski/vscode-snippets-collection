@@ -9,13 +9,6 @@
 *Welcome to **vscode-snippets-collection** repository! This project demonstrates the use of **Python**, **Selenium WebDriver**, and **Robot Framework** for automated testing and web scraping.*
 
 ---
-<details>
-<summary>Click to expand</summary>
-
-### Hidden Content
-This content is hidden by default.
-</details>
----
 
 ## Table of Contents
 
@@ -74,6 +67,8 @@ This repository includes **Python** combined with **Selenium WebDriver** and **R
 Whether for testing web applications, scraping data, or automating repetitive tasks, this repository provides a structured and scalable approach.
 
 ---
+<details>
+<summary>Click to expand</summary>
 
 ## Content 📈
 
@@ -121,6 +116,7 @@ Whether for testing web applications, scraping data, or automating repetitive ta
   * using the 'symbols' parameter,
   * using for a specific base currency using the 'base' parameter.
 
+</details>
 ---
 
 ## Technologies Used 🧪
