@@ -113,7 +113,7 @@ Get the Book Details
 
 ---
 
-## Technologies Used 🧪
+## Technologies Used
 
   * **Python**: programming language used for scripting and automation.
   * **Selenium WebDriver**: browser automation tool for interacting with web elements and performing actions like clicking, typing, and navigating.
