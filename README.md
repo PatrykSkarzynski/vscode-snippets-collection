@@ -61,12 +61,6 @@ Get the Book Details
 
 ---
 
-## Introduction
-
-This repository includes **Python** combined with **Selenium WebDriver** and **Robot Framework** for automating web interactions.
-Whether for testing web applications, scraping data, or automating repetitive tasks, this repository provides a structured and scalable approach.
-
----
 <details>
 <summary>Content 📈</summary>
 
