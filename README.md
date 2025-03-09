@@ -14,16 +14,6 @@
 
 ---
 
-#### JSON Data:
-```markdown
-```json
-{
-    "name": "John Doe",
-    "age": 30,
-    "city": "New York"
-}
-```
-
 ## Table of Contents
 
 - [Introduction](#introduction)
