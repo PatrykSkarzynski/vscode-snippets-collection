@@ -22,7 +22,7 @@
 ##
 
 ## Sample of .robot test file:
-```python
+```plaintext
 *** Settings ***
 Library          Collections
 Library          RequestsLibrary
