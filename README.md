@@ -12,7 +12,7 @@
 
 ## Table of Contents
 
-- [Technologies Used 🧪](#technologies-used)
+- [Technologies Used](#technologies-used)
 
 ---
 
