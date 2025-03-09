@@ -9,6 +9,13 @@
 *Welcome to **vscode-snippets-collection** repository! This project demonstrates the use of **Python**, **Selenium WebDriver**, and **Robot Framework** for automated testing and web scraping.*
 
 ---
+<details>
+<summary>Click to expand</summary>
+
+### Hidden Content
+This content is hidden by default.
+</details>
+---
 
 ## Table of Contents
 
