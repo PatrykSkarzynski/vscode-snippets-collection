@@ -3,40 +3,53 @@
 
 
 ## Example:
-``` Stock Info from Yahoo Finance API
-# Function_for_downloading_stock_data and_displaying_it in the text box
-def downloadData(e):    # e for event
-    textBox.delete("1.0", tk.END)
-    stock = str(e.widget.get())
+``` Sample of .robot test file
+*** Settings ***
+Documentation
+...              Use &'s to create a dictionary and pass the key-value pairs'
 
-    # Check if the stock ticker is empty or not
-    if not stock:
-        print("No stock ticker!")
-        return
+Library          Collections
+Library          RequestsLibrary
 
-    # Get the stock data from Yahoo Finance API
-    stock = stock.upper().strip()
-    print("download stock data: ", stock)
 
-    stockData = yf.Ticker(stock)
-    print(stockData.info)
+*** Variables ***
+${base_url}     https://rahulshettyacademy.com
+${book_id}
+${book_name}    RobotFrameworkLearning
 
-    textBox.insert(tk.END, "Ticker: " + stock + " \n\n")
 
-    # Display the stock data in the text box widget
-    for key in stockData.info.keys():
-        try:
-            v = str(key) + ": " + stockData.info[str(key)] + " \n\n "
-            textBox.insert(tk.END, v)
-        except KeyError:
-            pass
+*** Test Cases ***
+Add Book into Library BookDataBase
+    [Tags]    API
+    # Create a dictionary with key-value pairs
+    &{req_body}=           Create Dictionary    name=${book_name}    isbn=9874    aisle=332145    author=Patryk Skarzynski
 
-    # Get the history of the stock data for the last month with daily intervals
-    history = stockData.history(period="1mo", interval="1d")
-    # 1mo, 1m, 1d, 1y, 1wk
-    textBox.insert(tk.END, history)
+    ${response}=           POST    ${base_url}/Library/Addbook.php    json=${req_body}    expected_status=200    # Create dictionary from the response of the POST request
+    Log                              ${response.json()}    # Returns the response in JSON format
+
+    # Check if JSON response contains key 'ID'
+    Dictionary Should Contain Key    ${response.json()}    ID
+    ${book_id}=            Get From Dictionary    ${response.json()}    ID
+    Set Global Variable              ${book_id}    ${book_id}    # Set the value of the key 'ID' as a global variable
+    Log                              ${book_id}    # Returns the value of the key 'ID'
+
+    # Check if the response contains the message 'successfully added'
+    Should Be Equal As Strings    successfully added    ${response.json()}[Msg]    # Returns the value of the key 'Msg'
+    Status Should Be       200    ${response}    # Check if the status code is 200
+
+Get the Book Details
+    [Tags]    API
+    # Create dictionary from the response of the GET request
+    ${get_response}=       GET    ${base_url}/Library/GetBook.php    params=ID=${book_id}    expected_status=200    # Create dictionary from the response of the GET request
+    Log                              ${get_response.json()}    # Returns the response in JSON format
+
+    # Return the value of the key 'book_name' from the first element of the response as list of dictionaries
+    Should Be Equal As Strings       ${book_name}    ${get_response.json()}[0][book_name]
 ```
 ##
+
+
+
 ## 1. Converter to JSON:
 
   Simple python script that converts a CSV file to a JSON file.
@@ -59,13 +72,18 @@ def downloadData(e):    # e for event
 
 
 ## 5. Pandas_NumPy:
-  --Contains one files made in Jupyter Notebook.
+  
+  Contains one file made in Jupyter Notebook, basicaly a notebook with some useful code.
 
 
 ## 6. Testing:
-  --Contains all test files made with PyTest, Robot Framework, Selenium, Unitest.
+  
+  Contains all test files made with PyTest, Robot Framework, Selenium and Unitest.
+  Example above shows partialy one of the files from Testing/RobotFramework/test_demo_files directory.
 
 
 ## 7. Exchange Rates:
-  --Contains one quick program which downloads exchange rates data to .JSON with request library and
-  Unitest with Request to test server response.
+  
+  Program is used to get the latest exchange rates from the exchange_rates_api website, provides the latest exchange rates for free,
+  using the 'latest' endpoint, for 'USD', 'AUD', 'CAD', 'PLN', and 'MXN' using the 'symbols' parameter,
+  for a specific base currency using the 'base' parameter.
