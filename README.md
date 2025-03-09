@@ -10,7 +10,7 @@
 
 ##
 
-## Features 🚀
+### Features 🚀
 - **Automated Testing**
 - **Cross-Browser Support**
 - **Scalable**
