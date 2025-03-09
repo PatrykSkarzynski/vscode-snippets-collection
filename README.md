@@ -68,9 +68,7 @@ Whether for testing web applications, scraping data, or automating repetitive ta
 
 ---
 <details>
-<summary>Click to expand **Content**</summary>
-
-## Content 📈
+<summary>Content 📈</summary>
 
 **1. Converter to JSON:**
 
