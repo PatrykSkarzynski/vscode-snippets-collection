@@ -1,5 +1,7 @@
 # My Repo(sitory)
 
+
+
 ## Example:
 ``` Stock Info from Yahoo Finance API
 # Function_for_downloading_stock_data and_displaying_it in the text box
@@ -36,18 +38,23 @@ def downloadData(e):    # e for event
 ```
 ##
 ## 1. Converter to JSON:
-  --Converts from CSV, TXT and PY files.
+
+  Simple python script that converts a CSV file to a JSON file.
+  The 'csv' library provides the 'DictReader' class which reads the CSV file and returns a dictionary for each row,
+  library named 'json' provides the 'dump' function which writes the dictionary to the JSON file. The 'dump' function takes the dictionary and the file handler as arguments.
+  'Attrgetter' function from 'operator' library is used to get the value of a key in the dictionary.
 
 
 ## 2. Crypto Currency Exchange:
-  --Simple program that downloads information about picked crypto with REQUESTS lib and measures,
-  with perf_counter(), how much time this code require.
+  
+  Program allows to check the current price of crypto currencies and buy them using the CoinGecko API,
+  uses ses the 'requests' library to send requests to the CoinGecko API and the 'time' library to measure the time of code execution.
 
 
 ## 3. Financial data of listed Companies from the Server:
 
-  This program is a simple stock information program that uses the Yahoo Finance API to get the stock data of a company,
-  uses the yfinance library to get the stock data of a company by entering the stock ticker in the entry widget,
+  Program is a simple stock information program that uses the Yahoo Finance API to get the stock data of a company,
+  uses the 'yfinance' library to get the stock data of a company by entering the stock ticker in the entry widget,
   displays the stock data in the text box widget, also displays the stock data history for the last month with daily intervals in the text box widget.
 
 
