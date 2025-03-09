@@ -10,7 +10,7 @@
 ![RobotFramework](https://img.shields.io/badge/RobotFramework-5.0%2B-orange)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-red)
 
-Welcome to **vscode-snippets-collection** repository! This project demonstrates the use of **Python**, **Selenium WebDriver**, and **Robot Framework** for automated testing and web scraping.
+*Welcome to **vscode-snippets-collection** repository! This project demonstrates the use of **Python**, **Selenium WebDriver**, and **Robot Framework** for automated testing and web scraping.*
 
 ---
 
