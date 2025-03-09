@@ -49,6 +49,10 @@ def downloadData(e):    # e for event
   Used libraries:
   plotly, matplotlib.pyplot, pandas, tkinter, yfinance, selenium, time, traceback.
 
+  This program is a simple stock information program that uses the Yahoo Finance API to get the stock data of a company,
+  uses the yfinance library to get the stock data of a company by entering the stock ticker in the entry widget,
+  displays the stock data in the text box widget, also displays the stock data history for the last month with daily intervals in the text box widget.
+
 
 ## 5. Pandas_NumPy:
   --Contains one files made in Jupyter Notebook.
