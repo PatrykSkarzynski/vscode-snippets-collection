@@ -5,9 +5,6 @@
 ## Example:
 ``` Sample of .robot test file
 *** Settings ***
-Documentation
-...              Use &'s to create a dictionary and pass the key-value pairs'
-
 Library          Collections
 Library          RequestsLibrary
 
