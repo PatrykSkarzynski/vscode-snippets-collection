@@ -5,8 +5,8 @@
 ##
 
 # vscode-snippets-collection
-
-![LinkedIn](https://www.linkedin.com/in/patryk-skarżyński-b20690173/)
+https://img.shields.io/badge/LinkedIn-patryk-skarżyński-b20690173-blue?style=flat&logo=linkedin
+![LinkedIn](https://img.shields.io/badge/LinkedIn-patryk-skarżyński-b20690173-blue?style=flat&logo=linkedin)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange)
 ![RobotFramework](https://img.shields.io/badge/RobotFramework-5.0%2B-green)
