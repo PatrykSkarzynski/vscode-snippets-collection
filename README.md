@@ -6,7 +6,7 @@
 
 # vscode-snippets-collection
 
-![GitHub](https://img.shields.io/github/license/PatrykSkarzynsk/My-Repo) 
+![LinkedIn](https://www.linkedin.com/in/patryk-skarżyński-b20690173/)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange)
 ![RobotFramework](https://img.shields.io/badge/RobotFramework-5.0%2B-green)
