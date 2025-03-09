@@ -1,6 +1,6 @@
 # My Repo(sitory)
 
-## Example
+## Example:
 ``` Stock Info from Yahoo Finance API
 # Function_for_downloading_stock_data and_displaying_it in the text box
 def downloadData(e):    # e for event
