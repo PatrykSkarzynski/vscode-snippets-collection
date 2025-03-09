@@ -45,6 +45,29 @@ Get the Book Details
 ```
 ##
 
+# vscode-snippets-collection
+
+![GitHub](https://img.shields.io/github/license/PatrykSkarzynsk/My-Repo) 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange)
+![RobotFramework](https://img.shields.io/badge/RobotFramework-5.0%2B-green)
+
+Welcome to **vscode-snippets-collection** repository! This project demonstrates the use of **Python**, **Selenium WebDriver**, and **Robot Framework** for automated testing and web scraping.
+
+---
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Technologies Used](#technologies-used)
+
+---
+
+## Introduction
+
+This repository includes **Python** combined with **Selenium WebDriver** and **Robot Framework** for automating web interactions.
+Whether for testing web applications, scraping data, or automating repetitive tasks, this repository provides a structured and scalable approach.
+
 ## 1. Converter to JSON:
 
   Simple python script that converts a CSV file to a JSON file.
@@ -79,38 +102,12 @@ Get the Book Details
   * using the 'symbols' parameter,
   * using for a specific base currency using the 'base' parameter.
 
-# vscode-snippets-collection
-
-![GitHub](https://img.shields.io/github/license/PatrykSkarzynsk/My-Repo) 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange)
-![RobotFramework](https://img.shields.io/badge/RobotFramework-5.0%2B-green)
-
-Welcome to the **Project Name** repository! This project demonstrates the use of **Python**, **Selenium WebDriver**, and **Robot Framework** for automated testing and web scraping. Whether you're a beginner or an experienced developer, this repository provides a solid foundation for building and automating web-based tasks.
-
----
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
-## Introduction
-
-This project is designed to showcase the power of **Python** combined with **Selenium WebDriver** and **Robot Framework** for automating web interactions. Whether you're testing web applications, scraping data, or automating repetitive tasks, this repository provides a structured and scalable approach.
-
 ---
 
 ## Technologies Used
 
-- **Python**: A versatile and powerful programming language used for scripting and automation.
-- **Selenium WebDriver**: A browser automation tool for interacting with web elements and performing actions like clicking, typing, and navigating.
-- **Robot Framework**: A generic test automation framework for acceptance testing and acceptance test-driven development (ATDD).
+- **Python**: programming language used for scripting and automation.
+- **Selenium WebDriver**: browser automation tool for interacting with web elements and performing actions like clicking, typing, and navigating.
+- **Robot Framework**: test automation framework for acceptance testing and acceptance test-driven development (ATDD).
 
 ##
