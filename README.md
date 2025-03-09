@@ -1,7 +1,5 @@
 # My Repo(sitory)
 
-Information about me is available here: [LinkedIn](https://www.linkedin.com/in/patryk-skarżyński-b20690173/)
-
 ## Example:
 ``` Sample of .robot test file
 *** Settings ***
@@ -77,3 +75,7 @@ Get the Book Details
   Program is used to get the latest exchange rates from the exchange_rates_api website, provides the latest exchange rates for free,
   using the 'latest' endpoint, for 'USD', 'AUD', 'CAD', 'PLN', and 'MXN' using the 'symbols' parameter,
   for a specific base currency using the 'base' parameter.
+
+##
+
+### Information about me is available here: [LinkedIn](https://www.linkedin.com/in/patryk-skarżyński-b20690173/)
