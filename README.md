@@ -12,7 +12,6 @@
 
 ## Table of Contents
 
-- [Content](#introduction)
 - [Technologies Used](#technologies-used)
 
 ---
