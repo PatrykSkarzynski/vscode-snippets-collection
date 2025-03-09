@@ -1,5 +1,5 @@
 # vscode-snippets-collection
-🛠️
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PatrykSkarżyński-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/patryk-skarżyński-b20690173/)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
 ![PyTest](https://img.shields.io/badge/PyTest-3.8%2B-yellow)
@@ -17,7 +17,7 @@
 
 ---
 
-## Sample of .robot test file:
+## Sample of .robot test file 🛠️
 ```bash
 *** Settings ***
 Library          Collections
@@ -68,7 +68,7 @@ Whether for testing web applications, scraping data, or automating repetitive ta
 
 ---
 
-## Content
+## Content 📈
 
 **1. Converter to JSON:**
 
@@ -116,7 +116,7 @@ Whether for testing web applications, scraping data, or automating repetitive ta
 
 ---
 
-## Technologies Used
+## Technologies Used 🧪
 
   * **Python**: programming language used for scripting and automation.
   * **Selenium WebDriver**: browser automation tool for interacting with web elements and performing actions like clicking, typing, and navigating.
