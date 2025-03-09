@@ -12,7 +12,7 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Content 📈](#introduction)
 - [Technologies Used](#technologies-used)
 
 ---
