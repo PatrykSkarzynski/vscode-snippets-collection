@@ -115,6 +115,7 @@ Whether for testing web applications, scraping data, or automating repetitive ta
   * using for a specific base currency using the 'base' parameter.
 
 </details>
+
 ---
 
 ## Technologies Used 🧪
