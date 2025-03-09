@@ -5,9 +5,10 @@
 # vscode-snippets-collection
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PatrykSkarżyński-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/patryk-skarżyński-b20690173/)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-green)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange)
-![RobotFramework](https://img.shields.io/badge/RobotFramework-5.0%2B-green)
+![RobotFramework](https://img.shields.io/badge/RobotFramework-5.0%2B-yellow)
+![PyTest](https://img.shields.io/badge/PyTest-5.0%2B-red)
 
 Welcome to **vscode-snippets-collection** repository! This project demonstrates the use of **Python**, **Selenium WebDriver**, and **Robot Framework** for automated testing and web scraping.
 
