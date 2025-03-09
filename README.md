@@ -104,7 +104,7 @@ Get the Book Details
 
 **6. Exchange Rates:**
   
-  Program is used to get the latest exchange rates from the exchange_rates_api website, provides the latest exchange rates for free:
+ > Program is used to get the latest exchange rates from the exchange_rates_api website, provides the latest exchange rates for free:
   * using the 'latest' endpoint, for 'USD', 'AUD', 'CAD', 'PLN', and 'MXN'
   * using the 'symbols' parameter,
   * using for a specific base currency using the 'base' parameter.
