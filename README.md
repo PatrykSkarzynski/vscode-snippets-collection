@@ -134,11 +134,11 @@ This project was built while listening to Power Metal 🎶
 
 ---
 
-### Fun Fact 2
-This project will be updated while listening to Power Metal 🎶🎶
-
----
-
 ### Screenshots
 *Example of 'report.html'*
 ![Screenshot 1](https://i.imgur.com/rKNyKot.jpeg)
+
+---
+
+### 🏁 Fun Fact 2
+This project will be updated while listening to Power Metal 🎶🎶
