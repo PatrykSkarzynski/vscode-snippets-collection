@@ -1,6 +1,6 @@
 # My Repo(sitory)
 
-[LinkedIn](https://www.linkedin.com/in/patryk-skarżyński-b20690173/))
+[LinkedIn](https://www.linkedin.com/in/patryk-skarżyński-b20690173/)
 
 ## Example:
 ``` Sample of .robot test file
