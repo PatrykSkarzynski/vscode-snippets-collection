@@ -22,7 +22,7 @@
 ##
 
 ## Sample of .robot test file:
-```plaintext
+```bash
 *** Settings ***
 Library          Collections
 Library          RequestsLibrary
