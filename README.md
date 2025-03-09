@@ -64,6 +64,8 @@ Get the Book Details
 <details>
 <summary>Content 📈</summary>
 
+##
+
 **1. Converter to JSON:**
 
   Simple python script that converts a CSV file to a JSON file.
