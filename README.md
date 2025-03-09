@@ -2,8 +2,28 @@
 
 ### [LinkedIn](https://www.linkedin.com/in/patryk-skarżyński-b20690173/)
 
-## Example:
-``` Sample of .robot test file
+##
+
+# vscode-snippets-collection
+
+![GitHub](https://img.shields.io/github/license/PatrykSkarzynsk/My-Repo) 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange)
+![RobotFramework](https://img.shields.io/badge/RobotFramework-5.0%2B-green)
+
+Welcome to **vscode-snippets-collection** repository! This project demonstrates the use of **Python**, **Selenium WebDriver**, and **Robot Framework** for automated testing and web scraping.
+
+---
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Technologies Used](#technologies-used)
+
+###
+
+## Sample of .robot test file:
+```
 *** Settings ***
 Library          Collections
 Library          RequestsLibrary
@@ -43,23 +63,6 @@ Get the Book Details
     # Return the value of the key 'book_name' from the first element of the response as list of dictionaries
     Should Be Equal As Strings       ${book_name}    ${get_response.json()}[0][book_name]
 ```
-##
-
-# vscode-snippets-collection
-
-![GitHub](https://img.shields.io/github/license/PatrykSkarzynsk/My-Repo) 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange)
-![RobotFramework](https://img.shields.io/badge/RobotFramework-5.0%2B-green)
-
-Welcome to **vscode-snippets-collection** repository! This project demonstrates the use of **Python**, **Selenium WebDriver**, and **Robot Framework** for automated testing and web scraping.
-
----
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
 
 ---
 
