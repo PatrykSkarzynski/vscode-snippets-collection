@@ -67,7 +67,7 @@ Get the Book Details
 
 ---
 
-### 🔵 Fun Fact 1
+### ⚠️ Fun Fact 1
 This project was built while listening to Power Metal 🎶
 
 ---
@@ -139,5 +139,5 @@ This project was built while listening to Power Metal 🎶
 
 ---
 
-### 🏁 Fun Fact 2
+### ⚠️ Fun Fact 2
 This project will be updated while listening to Power Metal 🎶🎶
