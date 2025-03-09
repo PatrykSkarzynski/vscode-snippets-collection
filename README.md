@@ -45,9 +45,6 @@ def downloadData(e):    # e for event
 
 
 ## 3. Financial data of listed Companies from the Server:
-  --Aggregates data about picked companies and shows it on a graph.
-  Used libraries:
-  plotly, matplotlib.pyplot, pandas, tkinter, yfinance, selenium, time, traceback.
 
   This program is a simple stock information program that uses the Yahoo Finance API to get the stock data of a company,
   uses the yfinance library to get the stock data of a company by entering the stock ticker in the entry widget,
