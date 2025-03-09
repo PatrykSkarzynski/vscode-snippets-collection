@@ -78,4 +78,4 @@ Get the Book Details
 
 ##
 
-### Information about me is available here: [LinkedIn](https://www.linkedin.com/in/patryk-skarżyński-b20690173/)
+Information about me is available here: ### [LinkedIn](https://www.linkedin.com/in/patryk-skarżyński-b20690173/)
