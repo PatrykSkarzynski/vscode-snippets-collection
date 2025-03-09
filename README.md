@@ -20,7 +20,7 @@ Welcome to **vscode-snippets-collection** repository! This project demonstrates 
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
 
-###
+##
 
 ## Sample of .robot test file:
 ```
