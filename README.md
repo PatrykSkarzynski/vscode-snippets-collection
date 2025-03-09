@@ -140,5 +140,5 @@ This project will be updated while listening to Power Metal 🎶🎶
 ---
 
 ### Screenshots
-Example of report.html
+*Example of report.html*
 ![Screenshot 1](https://i.imgur.com/rKNyKot.jpeg)
