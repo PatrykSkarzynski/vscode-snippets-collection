@@ -5,8 +5,7 @@
 ![PyTest](https://img.shields.io/badge/PyTest-3.8%2B-yellow)
 ![RobotFramework](https://img.shields.io/badge/RobotFramework-5.0%2B-orange)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-red)
-
-*📌 Welcome to **vscode-snippets-collection** repository!*
+📌
 
 ##
 
