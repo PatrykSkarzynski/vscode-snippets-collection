@@ -15,7 +15,7 @@
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
 
-##
+---
 
 ## Sample of .robot test file:
 ```bash
