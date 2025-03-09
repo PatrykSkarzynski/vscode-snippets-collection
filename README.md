@@ -16,12 +16,6 @@
 
 ---
 
-### 🟢 Table of Contents
-
- - [🟡 Technologies Used](#technologies-used)
-
----
-
 ### 🛠️ Sample of .robot test file
 ```bash
 *** Settings ***
