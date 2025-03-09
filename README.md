@@ -1,4 +1,4 @@
-📌# vscode-snippets-collection
+# 📌 vscode-snippets-collection
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PatrykSkarżyński-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/patryk-skarżyński-b20690173/)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
