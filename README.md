@@ -138,3 +138,6 @@ This project was built while listening to Power Metal 🎶
 This project will be updated while listening to Power Metal 🎶🎶
 
 ---
+
+### Screenshots
+![Screenshot 1](https://imgur.com/a/2D1xWAa)
