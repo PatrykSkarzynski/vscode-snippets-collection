@@ -118,8 +118,8 @@ Whether for testing web applications, scraping data, or automating repetitive ta
 
 ## Technologies Used
 
-- **Python**: programming language used for scripting and automation.
-- **Selenium WebDriver**: browser automation tool for interacting with web elements and performing actions like clicking, typing, and navigating.
-- **Robot Framework**: test automation framework for acceptance testing and acceptance test-driven development (ATDD).
+  * **Python**: programming language used for scripting and automation.
+  * **Selenium WebDriver**: browser automation tool for interacting with web elements and performing actions like clicking, typing, and navigating.
+  * **Robot Framework**: test automation framework for acceptance testing and acceptance test-driven development (ATDD).
 
 ##
