@@ -69,7 +69,7 @@ Get the Book Details
 ---
 
 <details>
-<summary>Content 📈</summary>
+<summary>Content 📈 (Expandable)</summary>
 
 ##
 
