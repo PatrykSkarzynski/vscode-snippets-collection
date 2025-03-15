@@ -116,7 +116,6 @@ Get the Book Details
   > * using for a specific base currency using the 'base' parameter.
   
   </details>
-</div>
 
 ---
 
