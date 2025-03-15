@@ -74,6 +74,7 @@ Get the Book Details
 </div>
 
 <div align="center">
+  
   > Simple python script that converts a CSV file to a JSON file.
   > The 'csv' library provides the 'DictReader' class which reads the CSV file and returns a dictionary for each row,
   > library named 'json' provides the 'dump' function which writes the dictionary to the JSON file. The 'dump' function takes the dictionary and the file handler as arguments.
