@@ -66,8 +66,7 @@ Get the Book Details
   ---
 
   <details>
-  <summary>Content (Expandable)</summary>
-</div>
+  <summary align="center">Content (Expandable)</summary>
 
   ##
 
