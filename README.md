@@ -1,5 +1,4 @@
 <div align="center">
-IF" width="100%">
   <h1>vscode-snippets-collection</h1>
 </div>
 
