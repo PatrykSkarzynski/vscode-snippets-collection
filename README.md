@@ -69,10 +69,9 @@ Get the Book Details
   <summary>Content (Expandable)</summary>
 </div>
 
-##
+  ##
 
   **1. Converter to JSON:**
-</div>
   
   > Simple python script that converts a CSV file to a JSON file.
   > The 'csv' library provides the 'DictReader' class which reads the CSV file and returns a dictionary for each row,
