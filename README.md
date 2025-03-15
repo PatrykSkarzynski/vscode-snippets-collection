@@ -71,7 +71,9 @@ Get the Book Details
 
 <details>
   <summary>
-    <h3 align="center">Content (Expandable)</h3>
+    <div align="center">
+      <h3>Content (Expandable)</h3>
+    </div>
   </summary>
 
   ##
