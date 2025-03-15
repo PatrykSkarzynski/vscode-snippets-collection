@@ -12,10 +12,9 @@
 
 ##
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-green?style=plastic" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript">
-</div>
+```markdown
+## Demo
+![Demo GIF](https://user-images.githubusercontent.com/yourpath/demo.gif
 
 ### 🔴 Features
  - **Automated Testing**
