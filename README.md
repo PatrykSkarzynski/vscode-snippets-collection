@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green?style=plastic&logo=python)
 ![PyTest](https://img.shields.io/badge/PyTest-3.8%2B-green?style=plastic&logo=pytest)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange?style=plastic&logo=selenium)
-![RobotFramework](https://img.shields.io/badge/Robot%20Framework-5.0%2B-orange?style=plastic)
+![RobotFramework](https://img.shields.io/badge/Robot%20Framework-5.0%2B-orange?style=plastic&logo=robotframework)
 ![JupyterNotebook](https://img.shields.io/badge/Jupyter%20Notebook-7.3%2B-red?style=plastic)
 
 ##
