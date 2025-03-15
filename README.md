@@ -12,15 +12,15 @@
 
 ##
 
+---
+
+### 6. **Use Images and GIFs**
+Images and GIFs can make your `README.md` more engaging. You can use them to showcase your project or demonstrate functionality.
+
+#### Example:
 ```markdown
 ## Demo
-![Demo GIF](https://user-images.githubusercontent.com/yourpath/demo.gif
-
-### 🔴 Features
- - **Automated Testing**
- - **Cross-Browser Support**
- - **Scalable**
- - **Easy Setup**
+![Demo GIF](https://user-images.githubusercontent.com/yourpath/demo.gif)
 
 ---
 
