@@ -136,8 +136,9 @@ Get the Book Details
   ![Screenshot 1](https://i.imgur.com/rKNyKot.jpeg)
 </div>
 
-</div>
 ---
 
-### ⚠️ Fun Fact 2
-This project will be updated while listening to Power Metal 🎶🎶
+<div align="center">
+  <h3>⚠️ Fun Fact 2</h3>
+  This project will be updated while listening to Power Metal 🎶🎶
+</div>
