@@ -1,6 +1,6 @@
 # vscode-snippets-collection
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patryk%20Skar%C5%BCy%C5%84ski-blue?style=plastic&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAA...)](https://www.linkedin.com/in/patryk-skarżyński-b20690173/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patryk%20Skar%C5%BCy%C5%84ski-blue?style=plastic&logo=data:image/svg+xml;base64,PCFET0NUWVBFIGh0bWw+CjxodG1sIGNsYXNzPSJjbGllbnQtbm9qcyB2ZWN0b3ItZmVhdHVyZS1sYW5ndWFnZS1pbi1oZWFkZXIt...)](https://www.linkedin.com/in/patryk-skarżyński-b20690173/)
 [![Confluence](https://img.shields.io/badge/Confluence-Patryk%20Skarżyński-blue?style=plastic&logo=confluence&logoColor=FFFFFF)](https://skarzyn.atlassian.net/wiki/spaces/~61fc8a73aab3620070f6d2b6/overview)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green?style=plastic&logo=python&logoColor=FFFFFF)
 ![PyTest](https://img.shields.io/badge/PyTest-3.8%2B-green?style=plastic&logo=pytest&logoColor=FFFFFF)
