@@ -12,15 +12,6 @@
   [![Confluence](https://img.shields.io/badge/Confluence-Patryk%20Skarżyński-blue?style=plastic&labelColor=000000&logo=confluence&logoColor=20a7db)](https://skarzyn.atlassian.net/wiki/spaces/~61fc8a73aab3620070f6d2b6/overview)
 </div>
 
-##
-
-<h3>🔴 Features</h3>
-
-- **Automated Testing**
-- **Cross-Browser Support**
-- **Scalable**
-- **Easy Setup**
-
 ---
 
 <div align="center">
@@ -131,11 +122,20 @@ Get the Book Details
 
 ---
 
-### 🟡 Technologies Used
+<h3>🟡 Technologies</h3>
 
    * **Python**: programming language used for scripting and automation.
    * **Selenium WebDriver**: browser automation tool for interacting with web elements and performing actions like clicking, typing, and navigating.
    * **Robot Framework**: test automation framework for acceptance testing and acceptance test-driven development (ATDD).
+
+##
+
+<h3>🔴 Features</h3>
+
+- **Automated Testing**
+- **Cross-Browser Support**
+- **Scalable**
+- **Easy Setup**
 
 ---
 
