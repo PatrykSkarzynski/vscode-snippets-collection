@@ -12,7 +12,6 @@
   [![Confluence](https://img.shields.io/badge/Confluence-Patryk%20Skarżyński-blue?style=plastic&labelColor=000000&logo=confluence&logoColor=20a7db)](https://skarzyn.atlassian.net/wiki/spaces/~61fc8a73aab3620070f6d2b6/overview)
 </div>
 
-##
 
 <h3>🔴 Features</h3>
 
