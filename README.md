@@ -10,14 +10,7 @@
 ##
 
 <a href="https://www.linkedin.com/in/patryk-skarżyński-b20690173/">
-  <object
-    type="image/svg+xml"
-    data="https://img.shields.io/badge/LinkedIn-Patryk%20Skarżyński-0A66C2?style=flat&logo=linkedin"
-    style="transition: transform 0.2s;"
-    onmouseover="this.style.transform='scale(1.1)'"
-    onmouseout="this.style.transform='scale(1)'"
-    alt="LinkedIn">
-  </object>
+  <img src="https://img.shields.io/badge/LinkedIn-Patryk%20Skarżyński-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
 </a>
 
 ### 🔴 Features
