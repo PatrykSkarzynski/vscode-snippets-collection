@@ -20,6 +20,7 @@
 </div>
 
 <h3>🔴 Features</h3>
+
 - **Automated Testing**
 - **Cross-Browser Support**
 - **Scalable**
