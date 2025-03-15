@@ -12,6 +12,11 @@
 
 ##
 
+| **Languages**       | **Frameworks**      | **Tools**           |
+|----------------------|---------------------|---------------------|
+| ![Python](https://img.shields.io/badge/Python-3.10%2B-green?style=plastic) | ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django) | ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white) |
+
 ### 🔴 Features
  - **Automated Testing**
  - **Cross-Browser Support**
