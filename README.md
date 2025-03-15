@@ -17,6 +17,7 @@
 <div align="center">
 ### 🛠️ Sample of .robot test file
 </div>
+
 ```bash
 *** Settings ***
 Library          Collections
