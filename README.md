@@ -1,8 +1,8 @@
 <div align="center">
   <h1>vscode-snippets-collection</h1>
 
-  ![Python](https://img.shields.io/badge/Python-3.10%2B-green?style=plastic&labelColor=000000&logoSize=auto&logo=python&logoColor=20a7db)
-  ![PyTest](https://img.shields.io/badge/PyTest-3.8%2B-green?style=plastic&logoSize=auto&logo=pytest&labelColor=000000&logoColor=20a7db)
+  ![Python](https://img.shields.io/badge/Python-3.10%2B-green?style=plastic&labelColor=000000&logo=python&logoColor=20a7db)
+  ![PyTest](https://img.shields.io/badge/PyTest-3.8%2B-green?style=plastic&logo=pytest&labelColor=000000&logoColor=20a7db)
   ![HTML](https://img.shields.io/badge/HTML-5-orange?style=plastic&logoSize=auto&logo=html5&labelColor=000000&logoColor=20a7db)
   ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange?style=plastic&logoSize=auto&logo=selenium&labelColor=000000&logoColor=20a7db)
   ![RobotFramework](https://img.shields.io/badge/Robot%20Framework-5.0%2B-orange?style=plastic&logoSize=auto&logo=robotframework&labelColor=000000&logoColor=20a7db)
