@@ -4,7 +4,7 @@
 [![Confluence](https://img.shields.io/badge/Confluence-Patryk%20Skarżyński-blue?style=plastic&logo=confluence&logoColor=20a7db)](https://skarzyn.atlassian.net/wiki/spaces/~61fc8a73aab3620070f6d2b6/overview)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green?style=plastic&logo=python&logoColor=20a7db)
 ![PyTest](https://img.shields.io/badge/PyTest-3.8%2B-green?style=plastic&logo=pytest&logoColor=20a7db)
-![HTML](https://img.shields.io/badge/HTML-4.0%2B-orange?style=plastic&logo=html&logoColor=20a7db)
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=plastic&logo=html&logoColor=20a7db)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange?style=plastic&logo=selenium&logoColor=20a7db)
 ![RobotFramework](https://img.shields.io/badge/Robot%20Framework-5.0%2B-orange?style=plastic&logo=robotframework&logoColor=20a7db)
 ![JupyterNotebook](https://img.shields.io/badge/Jupyter%20Notebook-7.3%2B-red?style=plastic&logo=jupyter&logoColor=20a7db)
