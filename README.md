@@ -1,6 +1,6 @@
 # vscode-snippets-collection
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patryk%20Skarżyński-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/patryk-skarżyński-b20690173/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patryk%20Skar%C5%BCy%C5%84ski-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/patryk-skarżyński-b20690173/)
 [![Confluence](https://img.shields.io/badge/Confluence-Patryk%20Skarżyński-blue?style=plastic&logo=confluence)](https://skarzyn.atlassian.net/wiki/spaces/~61fc8a73aab3620070f6d2b6/overview)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green?style=plastic&logo=python)
 ![PyTest](https://img.shields.io/badge/PyTest-3.8%2B-green?style=plastic&logo=pytest)
