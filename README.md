@@ -70,7 +70,7 @@ Get the Book Details
   ---
 
 <details>
-  <summary align="center"><h2>Content (Expandable)</h2></summary>
+  <summary align="center">**Content (Expandable)**</summary>
 
   ##
 
