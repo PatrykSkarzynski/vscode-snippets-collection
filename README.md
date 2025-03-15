@@ -132,8 +132,8 @@ Get the Book Details
 <div align="center">
   <h3>📸 Screenshots</h3>
   *Example of 'report.html'*
-  ![Screenshot 1](https://i.imgur.com/rKNyKot.jpeg)
 </div>
+![Screenshot 1](https://i.imgur.com/rKNyKot.jpeg)
 
 ---
 
