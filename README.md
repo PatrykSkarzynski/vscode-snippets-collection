@@ -62,7 +62,6 @@ Get the Book Details
 <div align="center">
   <h3>⚠️ Fun Fact 1</h3>
   This project was built while listening to Power Metal 🎶
-</div>
 
 ---
 
@@ -116,7 +115,7 @@ Get the Book Details
 >   * using for a specific base currency using the 'base' parameter.
 
 </details>
-
+</div>
 ---
 
 ### 🟡 Technologies Used
