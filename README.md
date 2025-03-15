@@ -1,5 +1,21 @@
 # vscode-snippets-collection
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clickable Badge</title>
+  <style>
+    /* Optional: Add some styling to the badge */
+    #badge {
+      width: 150px; /* Adjust the width as needed */
+      height: auto; /* Maintain aspect ratio */
+      cursor: pointer; /* Show pointer cursor on hover */
+    }
+  </style>
+</head>
+<body>
 <object>
   id="badge"
   type="image/svg+xml"
@@ -25,6 +41,8 @@ data="https://img.shields.io/badge/LinkedIn-Patryk%20Skar%C5%BCy%C5%84ski-blue?s
     }
   });
 </script>
+</body>
+</html>
 
 [![Confluence](https://img.shields.io/badge/Confluence-Patryk%20Skarżyński-blue?style=plastic&labelColor=000000&logo=confluence&logoColor=20a7db)](https://skarzyn.atlassian.net/wiki/spaces/~61fc8a73aab3620070f6d2b6/overview)
 
