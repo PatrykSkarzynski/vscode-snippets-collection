@@ -15,7 +15,7 @@
 ##
 
 <div align="center">
-  ### 🛠️ Sample of .robot test file
+  <h2>🛠️ Sample of .robot test file<h2>
 </div>
 
 ```bash
