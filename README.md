@@ -1,5 +1,6 @@
 <div align="center">
-# vscode-snippets-collection
+IF" width="100%">
+  <h1>vscode-snippets-collection</h1>
 </div>
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green?style=plastic&labelColor=000000&logo=python&logoColor=20a7db)
