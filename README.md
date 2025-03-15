@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Patryk%20Skarżyński-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/patryk-skarżyński-b20690173/)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green)
 ![PyTest](https://img.shields.io/badge/PyTest-3.8%2B-yellow)
-![RobotFramework](https://img.shields.io/badge/Robot%20Framework-5.0%2B-orange)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-red)
+![RobotFramework](https://img.shields.io/badge/Robot%20Framework-5.0%2B-orange)
 ![JupyterNotebook](https://img.shields.io/badge/Jupyter%20Notebook-7.3%2B-pink)
 
 ##
