@@ -61,8 +61,10 @@ Get the Book Details
 
 ---
 
+<div align="center">
   <h3>⚠️ Fun Fact 1</h3>
-div
+</div>
+
 This project was built while listening to Power Metal 🎶
 
 ---
