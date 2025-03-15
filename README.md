@@ -15,7 +15,7 @@
 ##
 
 <div align="center">
-  <h3>🛠️ Sample of .robot test file<h3>
+  <h3>🛠️ Sample of .robot test file</h3>
 </div>
 
 ```bash
@@ -61,7 +61,8 @@ Get the Book Details
 
 ---
 
-### ⚠️ Fun Fact 1
+  <h3>⚠️ Fun Fact 1</h3>
+div
 This project was built while listening to Power Metal 🎶
 
 ---
