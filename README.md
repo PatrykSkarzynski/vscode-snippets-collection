@@ -12,6 +12,7 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/yourpath/background.gif" alt="Background GIF" width="100%">
+  <h1>Welcome to My Project</h1>
 </div>
 
 ##
