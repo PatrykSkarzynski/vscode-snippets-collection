@@ -14,17 +14,19 @@
 
 ##
 
-<div align="center">
-
-  <h3>🛠️ Sample of .robot test file</h3>
-</div>
-
 <h3>🔴 Features</h3>
 
 - **Automated Testing**
 - **Cross-Browser Support**
 - **Scalable**
 - **Easy Setup**
+
+##
+
+<div align="center">
+
+  <h3>🛠️ Sample of .robot test file</h3>
+</div>
 
 ```bash
 *** Settings ***
