@@ -136,8 +136,6 @@ Get the Book Details
 
 - *Automated Testing*
 - *Cross-Browser Support*
-- *Scalable*
-- *Easy Setup*
 
 ---
 
